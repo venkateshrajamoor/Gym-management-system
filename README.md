@@ -11,9 +11,10 @@ Gym Management System
       Member Management: Add, update, and delete member profiles
       Payment Tracking: Create bills and track payment status
       Fee Package Management: Create and assign customized fee packages
-      Notification System: Automated fee reminders and announcements
+      Notification
       Reporting: Generate and export comprehensive reports
       Diet Plan Management: Create and assign diet plans to members
+      Manage the gym details
     
 
 Member Module
@@ -57,7 +58,7 @@ Deployment: Vercel
         
         Member Management: Only admin can add the members and member gets mail to change their password adn then only they can login.
         
-        Mobile Optimization: The app is responsive but best performance is ensured on updated mobile browsers.
+        Once the member paid the fee it will automatically generate in the admin as Total revenue 
     
 👨‍💻 Developer
     Venkatesh Rajamoor
